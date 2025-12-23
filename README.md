@@ -1,5 +1,5 @@
 # Ex.04 Design a Website for Server Side Processing
-## Date:
+## Date:14/12/2025
 
 ## AIM:
 To create a web page to calculate vehicle mileage and fuel efficiency using server-side scripts.
@@ -31,6 +31,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <html>
     <head>
         <title>FuelEfficiency</title>
@@ -68,13 +69,14 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
+```
 
 
 ## OUTPUT - SERVER SIDE:
 
-
+![alt text](image.png)
 ## OUTPUT - WEBPAGE:
 
-
+![alt text](<Screenshot (21).png>)
 ## RESULT:
 The a web page to calculate vehicle mileage and fuel efficiency using server-side scripts is created successfully.
